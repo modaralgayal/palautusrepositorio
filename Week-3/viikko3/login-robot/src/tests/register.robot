@@ -1,7 +1,7 @@
 *** Settings ***
 Resource  resource.robot
 Test Setup  Input Register Command
-
+kor
 
 *** Test Cases ***
 Register With Valid Username And Password
