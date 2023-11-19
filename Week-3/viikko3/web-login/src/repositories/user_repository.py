@@ -1,5 +1,5 @@
 from entities.user import User
-
+import re
 
 class UserRepository:
     def __init__(self):

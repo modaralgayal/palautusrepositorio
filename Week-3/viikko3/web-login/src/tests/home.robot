@@ -1,3 +1,7 @@
+*** Keywords ***
+Go To Starting Page
+    
+
 *** Settings ***
 Resource  resource.robot
 Suite Setup  Open And Configure Browser
