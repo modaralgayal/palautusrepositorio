@@ -19,6 +19,7 @@ def main():
     kumpula_bier_shop.lisaa_ostos(2)
     kumpula_bier_shop.lisaa_ostos(2)
     kumpula_bier_shop.maksa("4444-1111")
+    #bober
 
 
 if __name__ == "__main__":
